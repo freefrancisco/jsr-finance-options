@@ -4,6 +4,7 @@
   "exports": "./mod.ts",
   "imports": {
     "@finance/options": "jsr:@finance/options@^0.1.0",
+    "@std/assert": "jsr:@std/assert@^0.225.3",
     "jstat": "npm:jstat@^1.9.6"
   }
 }
