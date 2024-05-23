@@ -1,0 +1,9 @@
+{
+  "name": "@finance/options",
+  "version": "0.1.0",
+  "exports": "./mod.ts",
+  "imports": {
+    "@finance/options": "jsr:@finance/options@^0.1.0",
+    "jstat": "npm:jstat@^1.9.6"
+  }
+}
